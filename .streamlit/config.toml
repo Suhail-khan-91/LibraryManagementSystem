@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#2a9d8f" # A calming teal color, good for interactive elements
+
+# Background color for the main content area.
+backgroundColor = "#f1faee" # A light beige color for a clean look
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#e9c46a" # A warm, complementary color for the sidebar
+
+# Color used for almost all text.
+textColor = "#264653" # A dark blue-gray color for good contrast and readability
+
+#[client]
+#toolbarMode = "minimal" # Keeps the toolbar minimal to give more space to the content
